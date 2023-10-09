@@ -5,5 +5,5 @@ import pandas as pd
 data = pd.Series([1, 2, 3, 4, 5])
 my_list = data.tolist()
 list_type = type(my_list)
-print(mylist)
+print(my_list)
 print(list_type)
